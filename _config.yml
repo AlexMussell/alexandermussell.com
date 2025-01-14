@@ -1,30 +1,32 @@
-title: alexandermussell.com
+title: Alexander Mussell
 author: Alexander Mussell
 email: alex@alexandermussell.com
 description: > 
-  Welcome to my Blog! Where I track my technological journey and hopefully help a few people out along the way!
-show_excerpts: true 
+  Even if nobody ever comes here, I learn best when trying to explain things to others. This is my attempt to do that.
+show_excerpts: true
 
 sass:
   sass_dir: _sass
 plainwhite:
   name: Alexander Mussell
-  tagline: SRE. Weightlifting. Reading.
+  tagline: Site Reliability Engineer
   date_format: "%b %-d, %Y"
   sitemap: false
-
+  condensed_mobile:
+    - home
   navigation:
     - title: Home
       url: "/"
-    - title: Reading List
-      url: "/reading-list"
+#    - title: Reading List
+#      url: "/reading-list"
     - title: Blog
       url: "/blog"
 
   social_links:
     github:  AlexMussell
     rss: rss
-
+    linkedIn: in/alexander-mussell-2812aa192
+    email: alex@alexandermussell.com
 # Build settings
 remote_theme: plainwhite
 
