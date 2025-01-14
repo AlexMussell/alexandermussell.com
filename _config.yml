@@ -12,7 +12,8 @@ plainwhite:
   tagline: Site Reliability Engineer
   date_format: "%b %-d, %Y"
   sitemap: false
-
+  condensed_mobile:
+    - home
   navigation:
     - title: Home
       url: "/"
@@ -25,7 +26,7 @@ plainwhite:
     github:  AlexMussell
     rss: rss
     linkedIn: in/alexander-mussell-2812aa192
-
+    email: alex@alexandermussell.com
 # Build settings
 remote_theme: plainwhite
 
