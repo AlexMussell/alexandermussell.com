@@ -21,6 +21,8 @@ plainwhite:
 #      url: "/reading-list"
     - title: Blog
       url: "/blog"
+#    - title: Download Résumé
+#      url: "/assets/AlexanderMussellCV.pdf"
 
   social_links:
     github:  AlexMussell
